@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align="center"><samp>Hello :wave:</samp></h2>
 
 <!--
 **DragonSlayer400/DragonSlayer400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
